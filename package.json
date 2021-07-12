@@ -2,7 +2,7 @@
   "dependencies": {
     "@nestjs/common": "7.6.17",
     "@nestjs/core": "7.6.17",
-    "@nestjs/platform-express": "7.6.17",
+    "@nestjs/platform-express": "7.6.18",
     "@nestjs/swagger": "4.8.0",
     "@wireapp/core": "17.10.1",
     "@wireapp/lru-cache": "3.8.0",
