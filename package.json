@@ -20,7 +20,7 @@
   },
   "description": "End-to-end Test Service (ETS) for Wire's test automation suite.",
   "devDependencies": {
-    "@types/hapi__joi": "17.1.6",
+    "@types/hapi__joi": "17.1.7",
     "@types/node": "~14",
     "@types/swagger-ui-express": "4.1.2",
     "@typescript-eslint/eslint-plugin": "4.27.0",
