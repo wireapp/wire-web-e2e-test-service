@@ -3,7 +3,7 @@
     "@nestjs/common": "7.6.17",
     "@nestjs/core": "7.6.17",
     "@nestjs/platform-express": "7.6.17",
-    "@nestjs/swagger": "4.8.0",
+    "@nestjs/swagger": "5.0.0",
     "@wireapp/core": "17.10.1",
     "@wireapp/lru-cache": "3.8.0",
     "class-transformer": "0.4.0",

@@ -146,10 +146,10 @@
     tslib "2.2.0"
     uuid "8.3.2"
 
-"@nestjs/mapped-types@0.4.0":
-  version "0.4.0"
-  resolved "https://registry.npmjs.org/@nestjs/mapped-types/-/mapped-types-0.4.0.tgz#352b9a661d6d36863cf48b2057616cef1b2c802d"
-  integrity sha512-TVtd/aTb7EqPhVczdeuvzF9dY0fyE3ivvCstc2eO+AkNqrfzSG1kXYYiUUznKjd0qDa8g2TmPSmHUQ21AXsV1Q==
+"@nestjs/mapped-types@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/@nestjs/mapped-types/-/mapped-types-1.0.0.tgz#52a0441795f6da8144a35970d3ebc19281f31cfd"
+  integrity sha512-26AW5jHadLXtvHs+M+Agd9KZ92dDlBrmD0rORlBlvn2KvsWs4JRaKl2mUsrW7YsdZeAu3Hc4ukqyYyDdyCmMWQ==
 
 "@nestjs/platform-express@7.6.17":
   version "7.6.17"
@@ -162,12 +162,12 @@
     multer "1.4.2"
     tslib "2.2.0"
 
-"@nestjs/swagger@4.8.0":
-  version "4.8.0"
-  resolved "https://registry.npmjs.org/@nestjs/swagger/-/swagger-4.8.0.tgz#7ebfeb0d59e0c27ff40beb429d7311b752c0dca4"
-  integrity sha512-YU+ahCOoOTZwSHrODHBiQDCqi7GWEjmSFg3Tot/lwVuQ321/3fIOz/lf+ehVQ5DFr7nVMhB7BRWFJLtE/+NhqQ==
+"@nestjs/swagger@5.0.0":
+  version "5.0.0"
+  resolved "https://registry.npmjs.org/@nestjs/swagger/-/swagger-5.0.0.tgz#9856989c6253d8d8093601fdab67fc7c915e2b57"
+  integrity sha512-LWKDmiEwNzIIaWj1Tq2x+RXTZdN4trhaafI0pA3JtBosYlx1klgzsrV/vsNvcTnD2RNd9P5u8yRPApJVpSWr5A==
   dependencies:
-    "@nestjs/mapped-types" "0.4.0"
+    "@nestjs/mapped-types" "1.0.0"
     lodash "4.17.21"
     path-to-regexp "3.2.0"
 
